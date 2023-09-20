@@ -1,0 +1,15 @@
+URLs
+
+Deployed URL : 
+
+1. To create Student : 
+
+2. To create Mentor : 
+
+3. To Assign a student to Mentor :
+
+4. To Assign or Change Mentor for particular Student :
+
+5. To show all students for a particular mentor :
+
+6. To show the previously assigned mentor for a particular student : 
