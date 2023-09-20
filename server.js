@@ -2,7 +2,6 @@ const express = require("express");
 const mongoose = require("mongoose");
 const bodyParser = require("body-parser");
 
-require("dotenv").config();
 
 //Importing the models
 
@@ -11,8 +10,8 @@ const Student = require("./models/Student");
 
 const app = express();
 
-const PORT = process.env.PORT;
-const DB_URL = process.env.DB_URL;
+const PORT=3000
+const DB_URL='mongodb+srv://vk1996vignesh:vicky2426@vignesh1.7mepsp4.mongodb.net/'
 
 
 app.use(bodyParser.json());
