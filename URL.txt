@@ -1,15 +1,15 @@
 URLs
 
-Deployed URL : 
+Deployed URL : https://assign-mentors-2es8.onrender.com
 
-1. To create Student : 
+1. To create Student : https://assign-mentors-2es8.onrender.com/student
 
-2. To create Mentor : 
+2. To create Mentor : https://assign-mentors-2es8.onrender.com/mentor
 
-3. To Assign a student to Mentor :
+3. To Assign a student to Mentor : https://assign-mentors-2es8.onrender.com/mentor/:mentorId/assign
 
-4. To Assign or Change Mentor for particular Student :
+4. To Assign or Change Mentor for particular Student : https://assign-mentors-2es8.onrender.com/student/:studentId/assignMentor/:mentorId
 
-5. To show all students for a particular mentor :
+5. To show all students for a particular mentor : https://assign-mentors-2es8.onrender.com/mentor/:mentorId/students
 
-6. To show the previously assigned mentor for a particular student : 
+6. To show the previously assigned mentor for a particular student : https://assign-mentors-2es8.onrender.com/student/:studentId/pMentor
